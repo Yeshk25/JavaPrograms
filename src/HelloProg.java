@@ -1,4 +1,4 @@
-public class HelloProg {
+public class HelloProg{
     public static void main(String[] args){
         System.out.println("Hello program");
 
